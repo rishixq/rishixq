@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/rishi-kishore-15b17126a">LinkedIn</a> •
-  <a href="https://rishixq.github.io/My_Portfolio/">Portfolio</a> •
+  <a href="https://rishixq.github.io/Portfolio/">Portfolio</a> •
   <a href="mailto:rishikishore8888@gmail.com">Email</a>
 </p>
 
