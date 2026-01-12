@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rishi Kishore 👋</h1>
-<h3 align="center">AI & Data Science Enthusiast | Data Analyst | Full-Stack Developer</h3>
+<h3 align="center">Intern @ WNS-Vuram | AI & Data Science Enthusiast | Data Analyst | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/rishi-kishore-15b17126a">LinkedIn</a> •
